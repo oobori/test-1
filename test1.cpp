@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include "test1.h"
 
-#define MAX_LOADSTRING 100
+#define MAX_LOADSTRING 200
 
 // グローバル変数:
 HINSTANCE hInst;								// 現在のインターフェイス
